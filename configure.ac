@@ -179,7 +179,6 @@ AC_CONFIG_FILES([
         Makefile
         doc/Makefile
         src/Makefile
-        tests/Makefile
         pkgconfig/atomic_ops.pc
         pkgconfig/atomic_ops-uninstalled.pc ])
 
